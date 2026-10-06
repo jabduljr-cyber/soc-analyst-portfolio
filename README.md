@@ -1,5 +1,5 @@
 # soc-analyst-portfolio
-# SOC Analyst Portfolio – 16 Day Rebuild
+# SOC Analyst Portfolio – 30 Day Rebuild
 
 ## About Me
 Aspiring Security Operations Center (SOC) Analyst rebuilding and demonstrating hands-on cybersecurity skills through structured lab environments and documented investigations.
